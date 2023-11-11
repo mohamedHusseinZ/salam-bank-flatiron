@@ -46,7 +46,7 @@ const App = () => {
 
   const addTransaction = (newTransaction) => {
     setTransactions([...transactions, newTransaction]);
-    // Update filtered transactions based on the search term
+    // Update filtered transactions based on the search 
     filterTransactions([...transactions, newTransaction], newTransaction.description);
   };
 
