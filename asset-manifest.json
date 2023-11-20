@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohamedHusseinZ/salam-bank-flatiron/static/css/main.e7561139.css",
+    "main.js": "/mohamedHusseinZ/salam-bank-flatiron/static/js/main.1b22e130.js",
+    "static/js/787.ce690c41.chunk.js": "/mohamedHusseinZ/salam-bank-flatiron/static/js/787.ce690c41.chunk.js",
+    "index.html": "/mohamedHusseinZ/salam-bank-flatiron/index.html",
+    "main.e7561139.css.map": "/mohamedHusseinZ/salam-bank-flatiron/static/css/main.e7561139.css.map",
+    "main.1b22e130.js.map": "/mohamedHusseinZ/salam-bank-flatiron/static/js/main.1b22e130.js.map",
+    "787.ce690c41.chunk.js.map": "/mohamedHusseinZ/salam-bank-flatiron/static/js/787.ce690c41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7561139.css",
+    "static/js/main.1b22e130.js"
+  ]
+}
