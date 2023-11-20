@@ -47,9 +47,11 @@ const TransactionForm = ({ onSubmit }) => {
           onChange={(e) => setAmount(e.target.value)}
         />
       </label>
+      
       <button type="submit">Add Transaction</button>
     </form>
   );
 };
+
 
 export default TransactionForm;

@@ -6,6 +6,7 @@ import React from 'react';
   return (
     <table>
       <thead>
+        
         <tr>
           <th>Description</th>
           <th>Category</th>

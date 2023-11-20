@@ -53,7 +53,7 @@ const App = () => {
   const deleteTransaction = (index) => {
     const updatedTransactions = transactions.filter((_, i) => i !== index);
     setTransactions(updatedTransactions);
-    // Update filtered transactions based on the search term
+    // Update filtered transactions based on the search terme
     filterTransactions(updatedTransactions);
   };
 
